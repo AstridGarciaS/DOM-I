@@ -18,19 +18,19 @@ Inside `src/index.js` there is declared an object literal containing all the dat
 
 ## Running the project
 
-* [ ] Run `npm install` to download the project's dependencies.
-* [ ] Run `npm start` to launch the page on `http://localhost:3000`.
-* [ ] Run `npm test` to execute auto tests against your work (you'll need a new terminal window).
+* [X] Run `npm install` to download the project's dependencies.
+* [X] Run `npm start` to launch the page on `http://localhost:3000`.
+* [X] Run `npm test` to execute auto tests against your work (you'll need a new terminal window).
 
 ## MVP
 
 ### Create selectors to access the relevant elements
 
-* [ ] Declare variables pointing to the relevant DOM elements, using any of the selectors you have learned.
+* [X] Declare variables pointing to the relevant DOM elements, using any of the selectors you have learned.
 
 ### Add text contents
 
-* [ ] Using your selectors, update the text contents of the relevant elements, matching the design file.
+* [X] Using your selectors, update the text contents of the relevant elements, matching the design file.
 * [ ] Find the correct texts for the elements inside the data object in `src/index.js`.
 
 ### Add class names
@@ -40,8 +40,8 @@ Inside `src/index.js` there is declared an object literal containing all the dat
 
 ### Add image sources
 
-* [ ] Make the img tags on the page display the correct images by editing their `src` attribute.
-* [ ] Find the correct URLs for the images inside the data object in `src/index.js`.
+* [X] Make the img tags on the page display the correct images by editing their `src` attribute.
+* [X] Find the correct URLs for the images inside the data object in `src/index.js`.
 
 ## Submission Format
 

@@ -31,12 +31,12 @@ Inside `src/index.js` there is declared an object literal containing all the dat
 ### Add text contents
 
 * [X] Using your selectors, update the text contents of the relevant elements, matching the design file.
-* [ ] Find the correct texts for the elements inside the data object in `src/index.js`.
+* [X] Find the correct texts for the elements inside the data object in `src/index.js`.
 
 ### Add class names
 
-* [ ] Give the anchor tags _inside the nav_ an italic style by adding the classname `italic` to them alone.
-* [ ] Give the anchor tag _inside the footer_ a bolder appearence by adding the classname `bold` to it alone.
+* [X] Give the anchor tags _inside the nav_ an italic style by adding the classname `italic` to them alone.
+* [X] Give the anchor tag _inside the footer_ a bolder appearence by adding the classname `bold` to it alone.
 
 ### Add image sources
 
@@ -45,4 +45,4 @@ Inside `src/index.js` there is declared an object literal containing all the dat
 
 ## Submission Format
 
-* [ ] Submit a link to your github repo in canvas.
+* [X] Submit a link to your github repo in canvas.
